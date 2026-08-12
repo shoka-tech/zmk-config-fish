@@ -67,12 +67,12 @@
 
         combo_lang2 {
             key-positions = <11 12>;
-            bindings = <&kp LANG2>;
+            bindings = <&kp INT5>;
         };
 
         combo_lang1 {
             key-positions = <15 16>;
-            bindings = <&kp LANG1>;
+            bindings = <&kp INT4>;
         };
 
         combo_reset_L {
